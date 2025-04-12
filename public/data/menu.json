@@ -1,0 +1,28 @@
+{
+    "menu_data": [
+        {
+            "name": "Kuyteav",
+            "image": "https://domnor.com/admin/images/product/2021-01-16-12-25-11_1.jpg?v=1",
+            "price": 12000,
+            "type": "kuyteav"
+        },
+        {
+            "name": "Kuyteav",
+            "image": "https://domnor.com/admin/images/product/2021-01-16-12-25-11_1.jpg?v=1",
+            "price": 12000,
+            "type": "kuyteav"
+        },
+        {
+            "name": "Kuyteav",
+            "image": "https://domnor.com/admin/images/product/2021-01-16-12-25-11_1.jpg?v=1",
+            "price": 12000,
+            "type": "kuyteav"
+        },
+        {
+            "name": "Kuyteav",
+            "image": "https://domnor.com/admin/images/product/2021-01-16-12-25-11_1.jpg?v=1",
+            "price": 12000,
+            "type": "kuyteav"
+        }
+    ]
+}

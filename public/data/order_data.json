@@ -1,0 +1,18 @@
+{
+    "order": [
+        {
+            "table_number": 0,
+            "total": 0,
+            "total_item": 10,
+            "date": "",
+            "items": [
+                {
+                    "name": "",
+                    "qty": "",
+                    "type": "",
+                    "price": 1200
+                }
+            ]
+        }
+    ]
+}
